@@ -34,7 +34,7 @@
 ## Використання
 
 1. **Підключіть модуль RX5808 та OLED дисплей до вашої плати Arduino** згідно зі схемою з'єднань.
-![image](https://github.com/user-attachments/assets/7594f2ad-9b20-45f0-b0e9-b8105c08cf83](https://github.com/MikyM0use/OLED-scanner/blob/master/docs/connections_b1.jpg)
+![image](https://github.com/user-attachments/assets/ae7d56e6-204c-4273-8f2f-71739e8147f3)
 3. **Увімкніть вашу плату Arduino**.
 4. **Слідкуйте за OLED дисплеєм** для результатів сканування частот.
 
